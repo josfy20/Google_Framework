@@ -20,7 +20,7 @@ public class searchproduct extends googleBase {
 	
 	searchProductPage sp;
    //hi, how are you? iam fine.
-
+// hi , i am good
 
 @Given("i am on the google homepage")
 public void i_am_on_the_google_homepage() {
